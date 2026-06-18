@@ -22,6 +22,18 @@ Main contributions:
 * Position-noise experiments
 * ROS bag recording and reproducible execution scripts
 
+### [Mathematical Modelling Projects](https://github.com/CGiral/mathematical-modelling-projects)
+
+Selected academic projects in mathematical modelling, geometry, nonlinear dynamics, control theory and optimization.
+
+This repository includes mathematical reports, computational notebooks and simulation-based work developed during the MSc in Mathematical Modelling, Statistics and Computing.
+
+### [Deep Learning Case Studies](https://github.com/CGiral/deep-learning-case-studies)
+
+Collection of deep learning projects involving dense neural networks, convolutional neural networks and recurrent neural networks.
+
+The projects cover image classification with MNIST and CIFAR-10, as well as text classification using recurrent architectures.
+
 ### [Machine Learning Case Studies](https://github.com/CGiral/machine-learning-case-studies)
 
 Collection of supervised machine learning projects covering regression, classification, model evaluation, hyperparameter optimisation and imbalanced datasets.
@@ -30,22 +42,9 @@ Collection of supervised machine learning projects covering regression, classifi
 
 Collection of projects involving clustering, dimensionality reduction, topic modelling and anomaly detection.
 
-## Additional Work
-
-More projects will be added progressively in areas such as:
-
-* Mathematical modelling
-* Optimisation
-* Control theory
-* Algebra and geometry
-* Natural language processing
-* Neural networks and computer vision
-* Data engineering
-* Automated planning
-
 ## Technical Tools
 
-`Python` · `SQL` · `C++` · `MATLAB` · `scikit-learn` · `pandas` · `NumPy` · `ROS 2` · `Git` · `Linux`
+`Python` · `SQL` · `C++` · `MATLAB` · `Julia` · `SageMath` · `TensorFlow` · `Keras` · `scikit-learn` · `pandas` · `NumPy` · `ROS 2` · `Git` · `Linux`
 
 ## Academic Background
 
